@@ -1,0 +1,43 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Check script passed. Marking on 50%-100%
+--------------------------------------------------------------------------------
+Marking 'ex3q1'...
+Searching for test cases for: 1
+10 test cases found for 'ex3q1' in '~/markcases'
+'~/repo/src/ex3q1.c' compiled successfully.
+
+Testing using '~/markcases/11_input.txt'...
+Success: images are close enough: ppmcmp=0.6182444095611572
+
+Testing using '~/markcases/12_input.txt'...
+Success: images are close enough: ppmcmp=0.7035380601882935
+
+Testing using '~/markcases/110_input.txt'...
+Success: 'ex3q1' exited with non-zero code on invalid input
+
+Testing using '~/markcases/13_input.txt'...
+Success: images are close enough: ppmcmp=0.8677007555961609
+
+Testing using '~/markcases/14_input.txt'...
+Success: images are close enough: ppmcmp=0.888504147529602
+
+Testing using '~/markcases/15_input.txt'...
+Success: images are close enough: ppmcmp=1.0715887546539307
+
+Testing using '~/markcases/16_input.txt'...
+Success: images are close enough: ppmcmp=0.30292344093322754
+
+Testing using '~/markcases/17_input.txt'...
+Success: images are close enough: ppmcmp=0.04279203340411186
+
+Testing using '~/markcases/19_input.txt'...
+Success: 'ex3q1' exited with non-zero code on invalid input
+
+Testing using '~/markcases/18_input.txt'...
+Success: images are close enough: ppmcmp=0.19796372950077057
+--------------------------------------------------------------------------------
+END: Final grade: 20/20 = 100%
+--------------------------------------------------------------------------------
+
